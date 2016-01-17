@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AmazonDynamoDB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonEC2SpotInstances-Advanced" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonEC2SpotInstances-GettingStarted" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonKinesis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonKinesisFirehose" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonS3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonS3TransferProgress" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonSimpleEmailService" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AmazonSimpleQueueService" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AwsCloudFormation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AwsConsoleApp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="DynamoDBLocal_lib" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>

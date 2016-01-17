@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="DynamoDBLocal_lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/sqlite4java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-io-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/log4j-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/aws-java-sdk-1.10.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-annotations-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-start.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-server-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-rewrite-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-client-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/servlet-api-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-plus-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-servlet-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-util-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-jndi-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-websocket-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-overlay-deployer-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jackson-core-2.5.x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-policy-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-xml-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-ajp-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jackson-annotations-2.5.x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/spdy-jetty-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/joda-time-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-servlets-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/antlr-runtime-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-continuation-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/log4j-core-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jackson-databind-2.5.x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/spdy-jetty-http-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-webapp-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-jmx-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-deploy-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-security-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/jetty-http-8.1.12.v20130726.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dynamodb_local_2016-01-07_1.0/DynamoDBLocal_lib/spdy-core-8.1.12.v20130726.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
